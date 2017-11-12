@@ -1,2 +1,2 @@
 I am a new boy!
-I am studying Git.
+I am git
